@@ -35,12 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-St. PAVLS
-EXERCISE,
-OR,
-A SERMON OF
-Conscience.Describing the nature of it; and declaring
-the manner
+
 1. TO THE RIGHT
 Honourable, and Right Reuerend
 Father in God, IOHN, Lord Bishop of
